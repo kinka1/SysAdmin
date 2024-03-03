@@ -2,7 +2,7 @@
 
 marp: true
 theme : uncover
-_class : 
+_class : invert
 
 ---
 
