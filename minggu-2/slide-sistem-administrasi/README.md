@@ -1,7 +1,7 @@
 ---
 
 marp: true
-theme:uncover
+theme: uncover
 _class:invert
 
 ---
