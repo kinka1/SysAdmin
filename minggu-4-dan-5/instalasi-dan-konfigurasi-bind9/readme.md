@@ -1,4 +1,4 @@
-# INSTALASI DAN KONFIGURASI BIND 9
+# INSTALASI DAN KONFIGURASI BIND9
 
 ## INSTALASI BIND 9
 Install bind 9 dengan perintah `sudo apt install bind9 bind9-doc bind9-dnsutils`
