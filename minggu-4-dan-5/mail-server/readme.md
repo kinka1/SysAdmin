@@ -3,15 +3,19 @@
 1. konfigurasi db.kelompok5.local
 
 ![](../assets/1.png)
+
 2. Konfigurasi db.kelompok1.local.inv.
 
 ![](../assets/2.png)
+
 3. jalankan nslookup mail.kelompok5.local
 
 ![](../assets/3.png)
+
 4. Install systemd-timesyncd untuk Network Time Protocol.
 
 ![](../assets/4.png)
+
 5. Set timezone ke Jakarta, ntp true, dan local rtc false.
 
 ![](../assets/5.png)
