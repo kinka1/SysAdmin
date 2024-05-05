@@ -93,3 +93,11 @@
 ![](../assets/24-h.png)
 ![](../assets/249.png)
 ![](../assets/24j.png)
+
+25. kirim pesan ke kelompok lain
+
+![](../assets/telnet%20penting.png)
+
+26. lihat apakah berhasil terkirim atau tidak
+
+![](../assets/terima.png)
