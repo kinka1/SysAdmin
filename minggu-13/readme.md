@@ -172,15 +172,11 @@
 
 7. Tekan port 3000 dan coba masukkan beberapa data.
 
-   ![](assets/31.png)
-
 8. Hapus port 3000 dan coba mulai ulang seperti kode nomor 5.
 
    ![](assets/26.png)
 
 9. Buka lagi dan hasilnya bisa dilihat data masih tersimpan.
-
-   ![](assets/31.png)
 
 10. Jika ingin mengetahui di mana Docker menyimpan data kita jika menggunakan named volume, kita bisa menggunakan.
     ```bash
@@ -296,7 +292,7 @@
     ```
     ![](assets/52.png)
 
-## SING DOCKER COMPOSE
+## USING DOCKER COMPOSE
 
 1. Karena kita menggunakan Play-with-Docker instance, maka Docker Compose sudah ter-install. Kita cek versinya dengan perintah.
    ```bash
